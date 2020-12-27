@@ -8,5 +8,7 @@ So i tried to implement the same idea of Sapce Invaders game with python to enha
 # Modules Used 
 *<b>pygame</b>:  
 pygame is a free and open-source cross-platform library for the development of multimedia applications like video games using Python. It uses the Simple DirectMedia Layer library and several other popular libraries to abstract the most common functions, making writing these programs a more intuitive task.  
-### Installation
-$ pip install pygame  
+*<b>math</b>:   
+A built-in module that you can use for mathematical tasks.
+*<b>random</b>:   
+A built-in module that you can use to make random numbers.
